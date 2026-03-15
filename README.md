@@ -16,7 +16,7 @@ Based in **Mandalay**, I build full-stack applications with a focus on **C#** an
 ## Skills
 
 **Languages**  
-C# • TypeScript • JavaScript • SQL  
+C# • TypeScript • JavaScript • SQL  • PHP  
 
 **Front-End**  
 Blazor • Angular • .NET MAUI • HTML5 • CSS3
