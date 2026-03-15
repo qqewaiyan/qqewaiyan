@@ -5,8 +5,6 @@ I build **real-world applications** using **C# / .NET, Blazor, Angular, and Java
 
 Based in **Mandalay**, I build full-stack applications with a focus on **C#** and high-performance UI.
 
-* **Current Build:** Developing **horizontal virtualization** components for Blazor to handle massive data sets without the lag.
-* **Deep Dive:** Peeling back the layers of **ASP.NET Core** to understand its internal architecture and performance bottlenecks.
 * **Philosophy:** I don't get married to a stack. I choose whatever tool solves the problem most efficiently.
 
 📫 **Reach out:** [waiyanphyomg2002@gmail.com](mailto:waiyanphyomg2002@gmail.com)
