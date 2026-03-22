@@ -5,8 +5,6 @@ I build **real-world applications** using **C# / .NET, Blazor, Angular, and Java
 
 Based in **Mandalay**, I build full-stack applications with a focus on **C#** and high-performance UI.
 
-* **Philosophy:** I don't get married to a stack. I choose whatever tool solves the problem most efficiently.
-
 📫 **Reach out:** [waiyanphyomg2002@gmail.com](mailto:waiyanphyomg2002@gmail.com)
 
 ---
