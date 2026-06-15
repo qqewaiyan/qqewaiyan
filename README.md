@@ -1,7 +1,7 @@
 # Hi, my name is Wai Yan Phyo Mg
 Software Engineer | Full-Stack Developer  
 
-I build **real-world applications** using **C# / .NET, Blazor, Angular, and JavaScript**. I ship production features, optimize UI performance, and design reusable component architectures. I focus on scalable frontend and backend systems and solving real business problems.  
+I build **real-world applications** using **C# / .NET, Blazor, React, and JavaScript**. I ship production features, optimize UI performance, and design reusable component architectures. I focus on scalable frontend and backend systems and solving real business problems.  
 
 Based in **Mandalay**, I build full-stack applications with a focus on **C#** and high-performance UI.
 
@@ -15,7 +15,7 @@ Based in **Mandalay**, I build full-stack applications with a focus on **C#** an
 C# • TypeScript • JavaScript • SQL  • PHP  
 
 **Front-End**  
-Blazor • Angular • .NET MAUI • HTML5 • CSS3
+Blazor • React • .NET MAUI • HTML5 • CSS3
 
 **Back-End**  
 .NET  • Dapper • EF Core • ASP.NET Core  
@@ -24,7 +24,7 @@ Blazor • Angular • .NET MAUI • HTML5 • CSS3
 SQL Server • PostgreSQL • MySQL  
 
 **Dev Tools**  
-Git • Azure • Playwright • xUnit  
+Git • Azure • Render  • Playwright • xUnit  
 
 ---
 
